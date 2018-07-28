@@ -1,2 +1,0 @@
-# skillateAssignment
-Created with CodeSandbox

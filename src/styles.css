@@ -1,0 +1,56 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  font-size: 20px;
+  background-color: #e9e6e6;
+  color: black;
+  line-height: 20px;
+}
+
+.box {
+  background: #e9e6e6;
+  padding: 5px;
+  height: 45px;
+}
+
+.box1 {
+  background: #e9e6e6;
+  padding: 5px;
+  height: 180px;
+}
+
+.box2 {
+  background: #e9e6e6;
+  padding: 5px;
+  height: 80px;
+}
+
+.box3 {
+  background: #e9e6e6;
+  padding: 5px;
+  height: 60px;
+}
+
+.submitL {
+  width: 500px;
+}
+
+.submitM {
+  width: 550px;
+}
+
+.submitS {
+  width: 90%;
+}
+
+.astext {
+  background: none;
+  border: none;
+  /* float: "right"; */
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
